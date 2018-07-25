@@ -41,5 +41,7 @@ def first_second_and_third_students
   # Write a solution that returns the first, second and third students
   students = []
   students << STUDENT_NAMES[1]
+  students << STUDENT_NAMES[2]
+  students << STUDENT_NAMES[3]
 end
 first_second_and_third_students
